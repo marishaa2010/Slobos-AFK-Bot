@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "PagalkhanaSMP.aternos.me:51411",
+    "port": 51411,
     "version": "",
     "try-creative": false
   },
